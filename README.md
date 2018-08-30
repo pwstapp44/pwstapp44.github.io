@@ -161,7 +161,7 @@
       <ul class="menu">
 
         <li>
-          <a href="https://www.linkedin.com/in/jdavisphd/" class="" target="_blank">
+          <a href="https://www.linkedin.com/in/paul-stapp-114063158/" class="" target="_blank">
             <img src="https://s3.amazonaws.com/agilephd/webicon-linkedin-m.png">
           </a>
         </li>
@@ -176,13 +176,13 @@
     <div class="reveal" id="contactModal" data-reveal>
       <h4>Contact information</h4>
       <ul class="no-bullet">
-        <li>Dr. James Davis, PhD, PMP, CSP, CSM</li>
+        <li>Paul Stapp</li>
         <li>
-          <a href="mailto:james@agilephd.com?Subject=AgilePhD" target="_top">
-            james@agilephd.com
+          <a href="mailto:pwstapp@gmail.com?Subject=gmail" target="_top">
+            pwstapp@gmail.com
           </a>
         </li>
-        <li><a href="tel:+12258920230">+1.225.892.0230</a></li>
+        <li><a href="tel:+15047107145">+1.504.710.7145</a></li>
       </ul>
       <button class="close-button" data-close aria-label="Close modal" type="button">
         <span aria-hidden="true">&times;</span>
