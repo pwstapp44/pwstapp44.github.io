@@ -27,7 +27,7 @@
 
     <div class="callout large scrum">
       <div class="row column text-center bottom">
-        <h1 class="scrum_h1 bottom"></h1>
+        <h1 class="scrum_h1 bottom">Official Website of Paul Stapp</h1>
       </div>
     </div>
 
