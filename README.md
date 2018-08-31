@@ -14,7 +14,7 @@
     <div class="top-bar">
       <div class="top-bar-left">
         <ul class="menu">
-          <li class="menu-text agilephd">AgilePhD</li>
+          <li class="menu-text stappsite">Stapp Site</li>
         </ul>
       </div>
       <div class="top-bar-right">
