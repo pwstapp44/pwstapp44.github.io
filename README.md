@@ -37,11 +37,12 @@
           src="https://s3.amazonaws.com/agilephd/project_management.jpg">
       </div>
       <div class="medium-6 columns medium-pull-6">
-        <h2>Agile Project Management</h2>
+        <h2>A little Bit About Myself</h2>
         <p>
-          As an experienced agile project manager, AgilePhD is the niche provider
-          clients seek out when they are looking to implement business-enhancing,
-          agile PMO services that improve project and portfolio performance.
+          I'm a senior at Louisiana State University studying Inforamtion Systems and
+          Decisions Sciences with a concentration in Business Intelligence. Outside of school,
+          I play for the LSU club lacrosse team and am also the treasurer of the Sigma Alpha
+          Epsilon Fraternity. I also grew up in New Orleans, Louisiana and went to Jesuit High School. 
         </p>
 
       </div>
